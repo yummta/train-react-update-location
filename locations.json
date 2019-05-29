@@ -1,0 +1,19 @@
+[
+  { "name": "Great Pyramid of Giza", "lat": "29.979175", "lon": "31.134358" },
+
+  { "name": "Hanging Gardens of Babylon", "lat": "32.5355", "lon": "44.4275" },
+
+  {
+    "name": "Temple of Artemis at Ephesus",
+    "lat": "7.949722",
+    "lon": "27.363889"
+  },
+
+  { "name": "Statue of Zeus at Olympia", "lat": "37.637861", "lon": "21.63" },
+
+  { "name": "Mausoleum at Halicarnassus", "lat": "37.0379", "lon": "27.4241" },
+
+  { "name": "Colossus of Rhodes", "lat": "36.451111", "lon": "28.227778" },
+
+  { "name": "Lighthouse of Alexandria", "lat": "31.213889", "lon": "29.885556" }
+]
