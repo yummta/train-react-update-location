@@ -31,6 +31,14 @@ function Mymap() {
       .then(locations => setLocations(locations));
   }, []);
 
+  // React.useEffect(() => {
+  //   async function run() {
+  //     position = await getPosition
+  //     setPosition([position.coords.latitude, position.coords.longitude]);
+  //   }
+  //   run()
+  // }, [current]);
+
   function handleChange(e) {
     let idLocal = parseInt(e.target.value);
     if (!idLocal) {
